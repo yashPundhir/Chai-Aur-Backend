@@ -9,3 +9,5 @@
 ### Connect backend with frontend | Fullstack Proxy and CORS => `done`
 
 ### Final Mega Project Glimpse => `done`
+
+### Data modelling for backend with mongoose => `done`
